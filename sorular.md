@@ -11,7 +11,7 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 ## Sorular
 
 1. Git nedir?
-
+bireysel veya grup halinde yazılımcıların yazdıkları kodların tarihçelerini kaydeden, yazılımcılar arasında kodların taransferleri sağlayan, güncellemeleri yöneten, repoların son haline gelmesini sağlayan bir software toolu
 2. Git ile GitHub arasında ne fark var?
 
 3. Neden bir branch oluşturuyoruz?
@@ -25,3 +25,4 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 7. Merge conflict nedir?
 
 8. Merge conflict'i nasıl çözeriz?
+
