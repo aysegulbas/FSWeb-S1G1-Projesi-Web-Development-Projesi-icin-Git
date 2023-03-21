@@ -15,9 +15,9 @@ bireysel veya grup halinde yazılımcıların yazdıkları kodların tarihçeler
 2. Git ile GitHub arasında ne fark var?
 Git bir tool iken, Github git teknolojisine dayanan, repoların public olarak internet ortamında yayılmasını sağlayan web tasarımlı bir cloud sistemidir.
 3. Neden bir branch oluşturuyoruz?
-
+Master'ı bozmadan denemeler yapabilmemizi sağlar
 4. Pull Request'in amacı nedir?
-
+diğer kullanıcılara branch vasıtasıyla değişiklik yaptımızı bunu master'a entegre etmek istediğimiz konusunda teklifimizi sunar.
 5. Bir Branchten diğerine geçmek için kullandığın KOMUT nedir? Mesela `isim-soyisim` branch'inde çalıştığını hayal et ve main branch'ine geçmek istiyorsun, ne yaparsın?
 
 6. `git fetch`, `git merge` ve `git pull` arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız.
