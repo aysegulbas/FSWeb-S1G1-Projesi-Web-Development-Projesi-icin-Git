@@ -13,7 +13,7 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 1. Git nedir?
 gtyfuytugit
 2. Git ile GitHub arasında ne fark var?
-
+fdg
 3. Neden bir branch oluşturuyoruz?
 
 4. Pull Request'in amacı nedir?
