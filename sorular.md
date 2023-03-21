@@ -13,7 +13,7 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 1. Git nedir?
 bireysel veya grup halinde yazılımcıların yazdıkları kodların tarihçelerini kaydeden, yazılımcılar arasında kodların taransferleri sağlayan, güncellemeleri yöneten, repoların son haline gelmesini sağlayan bir software toolu
 2. Git ile GitHub arasında ne fark var?
-
+Git bir tool iken, Github git teknolojisine dayanan, repoların public olarak internet ortamında yayılmasını sağlayan web tasarımlı bir cloud sistemidir.
 3. Neden bir branch oluşturuyoruz?
 
 4. Pull Request'in amacı nedir?
